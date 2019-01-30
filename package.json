@@ -5,7 +5,7 @@
   "homepage": "https://github.com/dominictarr/ssb-invite",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dominictarr/ssb-invite.git"
+    "url": "git://github.com/everlifeai/ssb-invite.git"
   },
   "dependencies": {
     "cont": "^1.0.3",
@@ -14,7 +14,7 @@
     "level": "^4.0.0",
     "level-sublevel": "^6.6.5",
     "mdmanifest": "^1.0.8",
-    "ssb-client": "^4.6.0",
+    "ssb-client": "github:everlifeai/ssb-client",
     "ssb-keys": "^7.1.3",
     "ssb-ref": "^2.13.9"
   },
